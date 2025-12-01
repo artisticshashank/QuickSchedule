@@ -1,6 +1,6 @@
 {
-    "name": "wonderos",
-    "short_name": "wonderos",
+    "name": "SchedFlow",
+    "short_name": "SchedFlow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
